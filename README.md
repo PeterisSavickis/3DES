@@ -13,6 +13,8 @@ Droši veidojiet atsevišķus zarus un papildiniet kodu. Ja vēlaties iepludinā
 
 
 
+
+
 # 3DES Algoritma darbības princips
 
 Šeit ir aprakstīts, kā darbojas failā pieejamais 3DES šifrēšanas un atšifrēšanas process, soli pa solim.
